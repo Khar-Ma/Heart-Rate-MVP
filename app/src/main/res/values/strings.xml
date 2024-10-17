@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Heart Rate</string>
+    <string name="loading_screen">Heart Rate</string>
+    <string name="onboarding_start">Почати!</string>
+    <string name="onboarding1_title">Ваш трекер тиску</string>
+    <string name="onboarding1_text">Зазначайте, відстежуйте та аналізуйте свої показники артеріального тиску.</string>
+
+    <string name="onboarding2_title">Персоналізовані поради</string>
+    <string name="onboarding2_text">Програма надає дієві поради, які допоможуть вам підтримувати оптимальний рівень артеріального тиску та зменшити фактори ризику серцево-судинних захворювань.</string>
+
+    <string name="onboarding3_title">Нагадування</string>
+    <string name="onboarding3_text">Не відставайте від графіка контролю артеріального тиску та прийому ліків за допомогою спеціальних нагадувань.</string>
+
+    <string name="home_title">Виконайте своє перше вимірювань!</string>
+    <string name="history_btn_label">Історія</string>
+
+    <string name="history_clear">Очистити історію</string>
+
+    <string name="measurement_finger_not_available">Палець не виявлено</string>
+    <string name="measurement_put_finger">Щільно прикладіть палець до камери</string>
+    <string name="measurement_process">Йде Вимірювання.</string>
+        <string name="determine_pulse">Визначаємо ваш пульс. Утримуйте!</string>
+
+    <string name="bpm">bpm</string>
+    <string name="measurement_done">Готово</string>
+
+    <string name="your_result">Ваш результат</string>
+
+    <string name="less_than_60_bpm"> \u003c60 BPM</string>
+    <string name="between_60_100_bpm">60-100 BPM</string>
+    <string name="more_than_100_bpm">\u003e100 BPM</string>
+    <string name="pulse_slow">Уповільнений</string>
+    <string name="pulse_normal">Звичайний</string>
+    <string name="pulse_enlarged">Прискорений</string>
+
+</resources>
